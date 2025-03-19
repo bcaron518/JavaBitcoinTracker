@@ -89,7 +89,3 @@ Benjamin Caron - https://github.com/bcaron518
 
 ## Contributing
 If you'd like to contribute to this repository or improve the code examples, please feel free to open an issue or submit a pull request. Your contributions are welcome.
-
----
-
-Feel free to adjust or expand the sections as needed based on your specific requirements and project details.
