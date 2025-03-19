@@ -1,1 +1,1 @@
-worker: java -jar jar/BitcoinTracker.jar
+worker: java -jar /app/BitcoinTracker.jar
