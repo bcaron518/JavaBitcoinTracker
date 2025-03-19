@@ -83,7 +83,8 @@ The project relies on the following dependencies, which are managed via Maven (`
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your projects.
 
 ## Authors
-Amir Omidi - https://github.com/aaomidi
+Amir Omidi - https://github.com/aaomidi 
+
 Benjamin Caron - https://github.com/bcaron518
 
 ## Contributing
