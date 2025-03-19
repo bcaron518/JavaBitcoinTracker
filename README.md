@@ -79,9 +79,6 @@ The project relies on the following dependencies, which are managed via Maven (`
 - **WebSocket**: NV WebSocket Client
 - **Notifications**: Telegram Bot API
 
-## License
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your projects.
-
 ## Authors
 Amir Omidi - https://github.com/aaomidi 
 
